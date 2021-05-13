@@ -1,0 +1,139 @@
+{
+  "uuid": "ac0d26539e7cdce28df827deb32a5e6f",
+  "path": "Offline/GreenHouse BOX",
+  "name": "GreenHouse BOX",
+  "content": "",
+  "created_at": "2021-05-11 08:47:51",
+  "updated_at": "2021-05-13 13:00:49",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d68770f4eab83d4781833839771fcd2d",
+      "title": "Schematic",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "60de97a1377b40fabd308eb3461c559c": 1,
+        "a54366e479cf46f78633e18808774983": 1,
+        "fd69a96ff6bf4bb99a3f9fcb97215429": 1,
+        "cc43394c294c46f9ac33a0c6f25001c7": 1,
+        "7509db9f0be646a69788d45c6ed7817d": 1,
+        "47b494f1817847768e97c67f8847eaa9": 1,
+        "5435572cad0b4147ae3b8003f6fa2d3e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Solenoid Valve",
+          1,
+          "SOLENOID VALVE",
+          "P1",
+          {
+            "BOM_Supplier Part": "C49257",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Header2.54mm 1*3P",
+            "puuid": "004e283a875047dabb7b4cb05e71a823",
+            "uuid": "47b494f1817847768e97c67f8847eaa9"
+          }
+        ],
+        [
+          "ESP32",
+          1,
+          "ESP32",
+          "BOARD",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "ESP32",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ba588b94049b4caea97cfab927499b99",
+            "uuid": "60de97a1377b40fabd308eb3461c559c"
+          }
+        ],
+        [
+          "Arduino Relay 5V 1CH 2LED",
+          1,
+          "ARDUINO RELAY 5V 1CH 2LED",
+          "U3",
+          {
+            "BOM_Manufacturer Part": "Relay module for Arduino",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "7312227fd6bb41329f098fd354db7c51",
+            "uuid": "7509db9f0be646a69788d45c6ed7817d"
+          }
+        ],
+        [
+          "Water Flow Sensor",
+          1,
+          "WATER_FLOW_SENSOR",
+          "U4",
+          {
+            "BOM_Manufacturer Part": "Water_flow_sensor",
+            "puuid": "2c9ff88e0250442bb79aa7c595d85f82",
+            "uuid": "5435572cad0b4147ae3b8003f6fa2d3e"
+          }
+        ],
+        [
+          "Intake PH Sensor",
+          1,
+          "1X6_2.54MM_HEADER_AVR_ISP",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "New SchematicLib",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "DFROBOT",
+            "puuid": "00d269144a2348ed998786535bb0b6f2",
+            "uuid": "a54366e479cf46f78633e18808774983"
+          }
+        ],
+        [
+          "Intake Temp Sensor",
+          1,
+          "DS18B20 (TO-92) 3PIN EASY PLANT",
+          "BT1FF",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MAXIM",
+            "BOM_Manufacturer Part": "DS18B20+",
+            "BOM_Supplier Part": "C9753",
+            "puuid": "373379ae19914f3e8567264ed73a26a7",
+            "uuid": "cc43394c294c46f9ac33a0c6f25001c7"
+          }
+        ],
+        [
+          "220V -> 5V",
+          1,
+          "220VAC_TO_5VDC",
+          "U2",
+          {
+            "BOM_Manufacturer Part": "ACDC_220V_5V",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "f44646b55dcc4f1abf2d25a58e57d018",
+            "uuid": "fd69a96ff6bf4bb99a3f9fcb97215429"
+          }
+        ]
+      ],
+      "updateTime": 1620907238,
+      "createTime": 1620719874,
+      "histories": [],
+      "created_at": "2021-05-11 08:57:54",
+      "updated_at": "2021-05-13 13:00:38"
+    }
+  ],
+  "sort": [],
+  "title": "GreenHouse BOX",
+  "foldername": "GreenHouse BOX",
+  "schfilename": "GreenHouse BOX.json",
+  "schfilemtime": 1620907250007
+}
