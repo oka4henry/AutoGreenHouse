@@ -260,6 +260,8 @@ status_led:
 
 **Note:** This projects is under development and new updates should be added with frequency.
 
+**Note:** Automations will be added and created in the near future.
+
 ## 🖼️ SCREENSHOTS
 
 #### Dashboard
