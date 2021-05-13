@@ -11,10 +11,3 @@ Email: amng835@gmail.com
 General Discord: https://discord.gg/dFD5HHa
 
 Developer Discord: https://discord.gg/rxNNHYN9EQ
-
-## ⚙️HOW TO USE
-
-```bash
-sudo python3 Setup.py OR sudo ./Setup.py
-sudo python3 codex.py OR sudo ./codex.py
-```
