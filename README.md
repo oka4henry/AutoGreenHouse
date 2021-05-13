@@ -87,7 +87,11 @@ card:
 
 **Note:** Feel free to change any values as long as they are the same in your dashboard so no errors occur.
 
-**Note:** This code uses the [Xiaomi LYWSD03MMC](https://esphome.io/components/sensor/xiaomi_ble#lywsd03mmc) for mesuring temperature and humidity and the [Xiaomi MiFlora](http://esphome.io/components/sensor/xiaomi_ble#hhccjcy01) to measure plant temperature, brightness, condutivity, and moisture.
+**Note:** This code uses the [Xiaomi LYWSD03MMC](https://esphome.io/components/sensor/xiaomi_ble#lywsd03mmc) for mesuring temperature and humidity, the [Xiaomi MiFlora](http://esphome.io/components/sensor/xiaomi_ble#hhccjcy01) to measure plant temperature, brightness, condutivity, and moisture and used some other electronics like the following:
+- [4-Channel Relay Module](https://amzn.to/3eKqenM)
+- [Temperature Sensor Waterproof](https://amzn.to/3fievvB)
+- [pH Sensor](https://amzn.to/3bpS7zr)
+- [110V/220V -> 5V Transformer](https://amzn.to/3w4f1Ei)
 
 *GreenHouse Box:*
 ```yaml
@@ -254,8 +258,10 @@ status_led:
 
 ```
 
+**Note:** This projects is under development and new updates should be added with frequency.
+
 ## 🖼️ SCREENSHOTS
 
-#### Dashboard*
+#### Dashboard
 
 ![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/Home+Assistant+Dashboard.PNG)
