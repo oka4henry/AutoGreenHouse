@@ -270,4 +270,4 @@ status_led:
 
 #### Fans with Sonoff Basic
 
-![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/Fans%20With%20Sonoff.jpg)
+![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/Fans%20With%20Sonoff.jpeg)
