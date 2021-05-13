@@ -211,7 +211,7 @@ sensor:
     name: "Green House 1 Intake Neutral pH"
 ```
 
-**Note:** Our fans where not wifi controllable for default so we used a sonoff basic to act as the middle man and made them wifi controllable.
+**Note:** Our fans where not wifi controllable by default so we used a [Sonoff Basic](https://amzn.to/2RRr9tK) to act as the middle man and made them wifi controllable.
 
 *Fan control: (Sonoff)*
 ```yaml
