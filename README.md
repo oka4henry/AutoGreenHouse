@@ -266,4 +266,4 @@ status_led:
 
 #### Dashboard
 
-![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/Home+Assistant+Dashboard.PNG)
+![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/Home%20Assistant%20Dashboard.PNG)
