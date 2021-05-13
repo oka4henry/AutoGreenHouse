@@ -267,3 +267,7 @@ status_led:
 #### Dashboard
 
 ![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/Home%20Assistant%20Dashboard.PNG)
+
+#### Fans with Sonoff Basic
+
+![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/Fans%20With%20Sonoff.jpg)
