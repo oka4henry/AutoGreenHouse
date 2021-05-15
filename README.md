@@ -271,3 +271,11 @@ status_led:
 #### Fans with Sonoff Basic
 
 ![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/Fans%20With%20Sonoff.jpeg)
+
+#### GreenHouse Box Open/Closed
+
+![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/GreenHouse%20Box%20Open.jpg)
+
+![alt text](https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/Images/GreenHouse%20Box%20Closed.jpg)
+
+**Note:** These picturesdo not include the Water Flow Sensor and Valve
