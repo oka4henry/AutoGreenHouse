@@ -124,6 +124,9 @@ switch:
     pin: 25
     name: "Green House 1 Intake Water"
 
+dallas:
+  - pin: GPIO33
+
 sensor:
   - platform: atc_mithermometer
     mac_address: "<YOUR_MAC_ADDR>"
@@ -162,19 +165,11 @@ sensor:
           - 3.00 -> 6.0
           - 2.50 -> 9.5
     
-  - platform: adc
-    pin: GPIO33
+  - platform: dallas
+    address: <YOUR_ADDR>
     id: intake_water_temp
-    name: "Green House 1 Intake Water Temperature"
+    name: 'Green House 1 Intake Water Temperature'
     icon: "mdi:thermometer"
-    update_interval: 1s
-    unit_of_measurement: ºC
-    attenuation: 11db
-    filters:
-      - median:
-          window_size: 10
-          send_every: 5
-          send_first_at: 5
     on_value:
       then:
         lambda: |-
