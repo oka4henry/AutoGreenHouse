@@ -34,6 +34,22 @@ entities:
   - entity: plant.plant_1
 title: 'Green House #1'
 ```
+*Plant (plant.yaml)*
+```yaml
+Plant#1:
+  sensors:
+    moisture: sensor.green_house_1_plant_1_moisture
+    temperature: sensor.green_house_1_plant_1_temperature
+    conductivity: sensor.green_house_1_plant_1_soil_conductivity
+    brightness: sensor.green_house_1_plant_1_illuminance
+  min_moisture: 15
+  min_temperature: 15
+  min_conductivity: 350
+```
+To add the plant.yaml to configuration add the following code to configuration.yaml:
+```yaml
+plant: !include plant.yaml
+```
 *GreenHouse Actions/Monitor:*
 ```yaml
 type: 'custom:config-template-card'
