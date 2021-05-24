@@ -3,6 +3,7 @@
 ## 📝CONTRIBUTIONS
 
 Before doing any contribution read <a href="https://github.com/DEADSEC-SECURITY/AutoGreenHouse/blob/main/CONTRIBUTING.md">CONTRIBUTING</a>.
+
 If you want to buy this project online please refer to: [Tindie](https://www.tindie.com/products/deadsec-iot/greenhouse-controller-box-ha-esphome/)
 
 ## 📧 CONTACT
